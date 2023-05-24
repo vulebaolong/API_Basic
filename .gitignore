@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+*.env
+dist
+.parcel-cahe
+.DS_Store
+config.env
+app/config
